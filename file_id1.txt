@@ -2,3 +2,6 @@ hi
 bye
 me
 great
+BYE
+GO
+
